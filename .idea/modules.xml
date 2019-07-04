@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cslg_selfCar/cslg_selfCar/.idea/cslg_selfCar.iml" filepath="$PROJECT_DIR$/../cslg_selfCar/cslg_selfCar/.idea/cslg_selfCar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eyelid.iml" filepath="$PROJECT_DIR$/.idea/eyelid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eyelid_old/.idea/eyelid_old.iml" filepath="$PROJECT_DIR$/../eyelid_old/.idea/eyelid_old.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eyelid_old/.idea/eyelid_old.iml" filepath="$PROJECT_DIR$/../eyelid_old/.idea/eyelid_old.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../student_manager/manager/.idea/manager.iml" filepath="$PROJECT_DIR$/../student_manager/manager/.idea/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../manager_s/.idea/manager_s.iml" filepath="$PROJECT_DIR$/../manager_s/.idea/manager_s.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../student_man/manager/test111/.idea/test111.iml" filepath="$PROJECT_DIR$/../student_man/manager/test111/.idea/test111.iml" />
+    </modules>
+  </component>
+</project>
